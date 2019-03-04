@@ -1,0 +1,5 @@
+- Código feito no NetBeans.
+
+- A pasta de imagens está na pasta raiz do projeto só arrastar para o mesmo diretóri do jar para testar o executável.
+
+- Meu bando de dado não tem senha, logo não sei se vai ser necessário alterar a senha, que está no pacote persistência - conexão ao banco.java
